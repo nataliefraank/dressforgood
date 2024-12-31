@@ -22,8 +22,6 @@ a, p {
     font-family: Outfit, sans-serif;
     color: #3C291B;
     text-decoration: none;
-    /* TODO: create tree cursor */
-    /* cursor: url('https://img.freepik.com/premium-photo/hand-drawn-house-plant-clip-art-isolated-white-background-green-leaves-flower-pot-illustration-house-plant-clipart_408078-309.jpg'), auto; */
 }
 
 a:hover {
