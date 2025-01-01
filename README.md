@@ -2,10 +2,10 @@
 Welcome to dress for good! 👠 A minimalist and stylish website that encourages users to engage in ethical fashion e-commerce using HTML and CSS. This project aims to increase sustainable fashion technology and economy by providing access to sustainable goods, enabling users to sell, shop, or inform themselves.
 
 ## Features
-**Modern Design:** Responsive layout with sleek typography and interactive hover effects.
-**User-Friendly:** Fixed navigation and intuitive sections for easy browsing.
-**Visually Engaging:** Stylish CSS elements, vibrant imagery, and modular components.
-**Future-Ready:** Built for scalability and enhanced user interaction.
+**Modern Design:** Responsive layout with sleek typography and interactive hover effects.</br>
+**User-Friendly:** Fixed navigation and intuitive sections for easy browsing.</br>
+**Visually Engaging:** Stylish CSS elements, vibrant imagery, and modular components.</br>
+**Future-Ready:** Built for scalability and enhanced user interaction.</br>
 
 ## Inspiration
 I was inspired by [Reformation](https://www.thereformation.com/) and their minimalist, modern design.
